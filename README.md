@@ -15,4 +15,4 @@ Sou uma estudante apaixonada por tecnologia e pelo impacto que ela pode gerar no
 - **Bancos de Dados:** MySQL
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub da Thayna](https://github-readme-stats.vercel.app/api?username=thaynafd&show_icons=true&theme=radical)
+![Estatísticas do GitHub da Thayna](https://github-readme-stats-beta-red.vercel.app/api?username=thaynafd&show_icons=true&theme=radical)
